@@ -11,6 +11,6 @@
 		<title>Welcome</title>
 	</head> 
 	<body>
-		<a href="${messageUrl}">Click to enter</a>
+		<a href="${messageUrl}">commit</a>
 	</body>
 </html>
