@@ -1,5 +1,5 @@
 package com.root.healing.model;
 
-public class Test {
-
+public class asdasd {
+ 
 }
