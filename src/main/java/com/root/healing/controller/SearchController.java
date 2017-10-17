@@ -10,7 +10,6 @@ import org.springframework.web.servlet.ModelAndView;
 import com.root.healing.model.SawonDao;
 import com.root.healing.model.SawonDto;
 
-
 @Controller
 public class SearchController {
 	
