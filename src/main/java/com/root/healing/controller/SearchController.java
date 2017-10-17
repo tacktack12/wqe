@@ -16,6 +16,7 @@ public class SearchController {
 	
 	@Autowired
 	private SawonDao dao;
+	// 수정된 서치 컨트롤러
 	
 	@RequestMapping(value="search", method=RequestMethod.POST)
 	public ModelAndView searchProcess(SangBean bean) {
