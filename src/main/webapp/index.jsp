@@ -11,6 +11,6 @@
 		<title>Welcome</title>
 	</head> 
 	<body>
-		<a href="${messageUrl}">commit</a>
+		<a href="${messageUrl}">commit23</a>
 	</body>
 </html>
