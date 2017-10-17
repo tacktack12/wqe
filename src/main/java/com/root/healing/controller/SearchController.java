@@ -13,13 +13,6 @@ import com.root.healing.model.SawonDto;
 @Controller
 public class SearchController {
 	
-	
-	
-	
-	
-	
-	
-	
 	@Autowired
 	private SawonDao dao;
 	// 수정된 서치 컨트롤러2
